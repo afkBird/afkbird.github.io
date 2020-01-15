@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鸡尔伽美什的博客</title>
+    <link>afkbird.github.io/</link>
+    <description>Recent content on 鸡尔伽美什的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 15 Jan 2020 18:48:11 +0800</lastBuildDate>
+    
+	<atom:link href="afkbird.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何使用 GitHub Pages 预览 HTML</title>
+      <link>afkbird.github.io/posts/github-pages/</link>
+      <pubDate>Wed, 15 Jan 2020 18:48:11 +0800</pubDate>
+      
+      <guid>afkbird.github.io/posts/github-pages/</guid>
+      <description> 打开仓库的设置界面  点击Github Pages下方的用户名.github.io可以预览html  在Custom domain中可以使用自己的域名   </description>
+    </item>
+    
+    <item>
+      <title>命令行入门</title>
+      <link>afkbird.github.io/posts/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Wed, 15 Jan 2020 18:42:46 +0800</pubDate>
+      
+      <guid>afkbird.github.io/posts/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%85%A5%E9%97%A8/</guid>
+      <description>查找  查看文件的绝对目录 pwd 查看当前目录内容 ls 查看指定目录内容 ls 路径名 查看文件内容  cat 路径:查看全部内容 head/tail 路径:查看前/后10行  head/tail 路径 -n x:查看前/后x行 less 路径:查看部分内容，可以自由滚动  创建  创建文件/更改已创建文件的最后修改日期 touch 文件名 把hi 覆盖到1.txt  echo hi &amp;gt; 1.txt 把hi添加至1.txt  echo hi &amp;gt;&amp;gt; 1.txt 添加两行内容  echo -e &amp;quot;1\n2&amp;quot; &amp;gt;1.txt 创建单个目录 mkdir a 创建多个目录 mkdir -p a/b/c 复制文件 cp 1.txt 2.txt 复制目录 cp -r a b  删除  删除文件 rm 1.txt 删除目录  rm -r a  修改  移动文件/目录  mv 1.</description>
+    </item>
+    
+    <item>
+      <title>我的第一篇博客</title>
+      <link>afkbird.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 15 Jan 2020 18:41:11 +0800</pubDate>
+      
+      <guid>afkbird.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>欢迎来到我的博客 </description>
+    </item>
+    
+  </channel>
+</rss>
