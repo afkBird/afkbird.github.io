@@ -6,10 +6,20 @@
     <description>Recent content in Posts on 鸡尔伽美什的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 15 Jan 2020 18:48:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 22:42:46 +0800</lastBuildDate>
     
 	<atom:link href="afkbird.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HTML入门笔记1</title>
+      <link>afkbird.github.io/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B01/</link>
+      <pubDate>Wed, 15 Jan 2020 22:42:46 +0800</pubDate>
+      
+      <guid>afkbird.github.io/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B01/</guid>
+      <description>HTML是谁发明的 HTML的英文全称是 Hypertext Marked Language，即超文本标记语言。HTML是由Web的发明者 Tim Berners-Lee（李爵士）和同事 Daniel W. Connolly于1990年创立的一种标记语言，它是标准通用化标记语言SGML的应用。用HTML编写的超文本文档称为HTML文档，它能独立于各种操作系统平台(如UNIX， Windows等)。使用HTML语言，将所需要表达的信息按某种规则写成HTML文件，通过专用的浏览器来识别，并将这些HTML文件“翻译”成可以识别的信息，即现在所见到的网页。
+HTML起手式 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--声明文档类型 --&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;!--html标签 --&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;!--文件的字符编码 --&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;!--禁用页面缩放，兼容手机--&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;ie=edge&amp;#34;&amp;gt; &amp;lt;!--告诉ie使用最新内核--&amp;gt; &amp;lt;title&amp;gt;Document&amp;lt;/title&amp;gt; &amp;lt;!--标题--&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; 常用的表章节标签  &amp;lt;h1&amp;gt;,&amp;lt;h2&amp;gt;,&amp;lt;h3&amp;gt;,&amp;lt;h4&amp;gt;,&amp;lt;h5&amp;gt;,&amp;lt;h6&amp;gt; :从大到小表示标题 &amp;lt;section&amp;gt; :章节 &amp;lt;p&amp;gt;:段落 &amp;lt;header&amp;gt;:用于置顶的文章之外的内容 &amp;lt;footer&amp;gt;:用于底部的文章之外的内容 &amp;lt;main&amp;gt;:主要内容 &amp;lt;asaide&amp;gt;:旁枝内容 &amp;lt;div&amp;gt;:用于划分内容  全局属性  class:为元素分类 id:类似class，但适用于只出现一次的元素 contenteditable:使网页内容可以被编辑 hidden:隐藏元素 sytle:定义元素的样式 title:鼠标移至元素上时会显示title的内容 tabindex:自定义tab键的控制顺序  常用的内容标签  &amp;lt;ol&amp;gt;+&amp;lt;li&amp;gt;:有序列表 &amp;lt;ul&amp;gt;+&amp;lt;li&amp;gt;:无需列表 &amp;lt;dl&amp;gt;+&amp;lt;dt&amp;gt;+&amp;lt;dd&amp;gt;:带描述的列表 &amp;lt;pre&amp;gt;:其内的空格和换行不会被忽略 &amp;lt;hr&amp;gt;:分割线 &amp;lt;br&amp;gt;:换行 &amp;lt;a&amp;gt;:链接标签 &amp;lt;em&amp;gt;:加粗（指特意强调） &amp;lt;strong&amp;gt;:加粗（指其本身很重要） &amp;lt;code&amp;gt;:代码框 &amp;lt;quote&amp;gt;:行内引用 &amp;lt;blockquote&amp;gt;:块级引用  </description>
+    </item>
     
     <item>
       <title>如何使用 GitHub Pages 预览 HTML</title>
